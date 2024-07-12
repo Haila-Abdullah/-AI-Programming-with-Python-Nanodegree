@@ -17,3 +17,6 @@ Using my Python skills, I aimed to determine which image classification algorith
 Throughout the project, I focused on two main objectives: identifying which pet images are dogs and which aren't, and classifying the breeds of dogs in the images that are indeed dogs.
 
 Based on the results, the "best" model architecture is VGG. It outperformed both ResNet and AlexNet when considering both objectives 1 and 2. While ResNet displayed better accuracy in dog breed classification compared to AlexNet, only VGG and AlexNet achieved a perfect 100% accuracy in classifying "dogs" and "not-a-dog". Specifically, VGG achieved 100% accuracy in classifying "dogs" and "not-a-dog", and it also demonstrated the best performance in breed classification with an impressive accuracy of 93.3%.
+
+
+![Results Table](https://github.com/Haila-Abdullah/Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202024-07-12%20152618.png)
